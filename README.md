@@ -1,2 +1,2 @@
 # Dicee-Challenge-Game
-I created this website game using JavaScript. It is a very simple dicee challenge game , it genarate random dice images for player1 and player2
+I created this website game using JavaScript. It is a very simple dicee challenge game , it genarate random dice images for player1 and player2 and decalre the winner among player1 and player2.
